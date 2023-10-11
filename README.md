@@ -1,6 +1,6 @@
 # RickAndMortyChallenge
 
-## Requirments
+## Requirements
 
 #### Libraries: 
 - pytest
